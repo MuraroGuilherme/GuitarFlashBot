@@ -4,7 +4,7 @@
 ### Bibliotecas Utilizadas :
 
 - Pyautogui
-  > Utilizado para identificar as cores e os pixeis da Tela
+  > Utilizado para identificar as cores e os pixels da Tela
 - Keyboard
   > Utilizado para a configuração de pressionar as teclas
 - Time
